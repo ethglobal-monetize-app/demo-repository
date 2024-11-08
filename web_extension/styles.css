@@ -1,0 +1,13 @@
+#customGitHubButton {
+    padding: 10px 20px;
+    background-color: #2ea44f;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  #customGitHubButton:hover {
+    background-color: #22863a;
+  }
